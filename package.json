@@ -1,0 +1,21 @@
+{
+    "name": "com.korrel.objectoneventcreator",
+    "version": "1.0.0",
+    "displayName": "ObjectOnEventCreator",
+    "description": "Listen to events and spawn objects.",
+   "keywords": [
+      "Events",
+      "Object",
+      "Prefab",
+      "GameObject",
+      "Instantiate",
+      "Spawn",
+      "Create",
+      "Creator"
+    ],
+    "author": {
+      "name": "Daniel Korrel",
+      "email": "dkorrel@gmail.com"
+    }
+  }
+  

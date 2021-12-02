@@ -1,0 +1,6 @@
+{
+    "name": "korrel.objectoneventcreator.Tests",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
